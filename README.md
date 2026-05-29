@@ -612,8 +612,7 @@ PORT=5000
 NODE_ENV=development
 
 # MongoDB Atlas Connection String
-MONGODB_URI=mongodb+srv://username:password@cluster0.xxxxx.mongodb.net/pathforge?retryWrites=true&w=majority
-
+MONGODB_URI=mongodb+srv://username:1234@mongodb.net
 # JWT Configuration
 JWT_SECRET=your_super_secret_jwt_key_minimum_32_characters_long
 JWT_EXPIRE=7d
